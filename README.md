@@ -4,3 +4,5 @@
 conflict 発生
 conflict 待機
 コンフリクトを発生させます
+コンフリクト待ちです
+conflict 発生
