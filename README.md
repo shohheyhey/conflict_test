@@ -3,4 +3,4 @@
 コンフリクト
 conflict 発生
 conflict 待機
-
+コンフリクト待ちです
