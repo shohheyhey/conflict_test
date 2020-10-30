@@ -1,3 +1,2 @@
 # conflict_test
 コンフリクトおこれ！！
-
