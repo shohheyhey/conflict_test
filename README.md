@@ -2,4 +2,5 @@
 コンフリクト待機
 コンフリクト
 conflict 発生
+conflict 待機
 
