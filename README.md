@@ -1,3 +1,3 @@
 # conflict_test
-conflict
+コンフリクト待機
 コンフリクト
