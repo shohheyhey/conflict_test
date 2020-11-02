@@ -9,5 +9,6 @@ conflict 発生
 conflict 待機
 コンフリクト 発生
 conflict 待機
+コンフリクト発生
 コンフリクト待ち
 
